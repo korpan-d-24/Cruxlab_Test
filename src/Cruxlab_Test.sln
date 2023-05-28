@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cruxlab_Test", "Cruxlab_Test\Cruxlab_Test.csproj", "{30D2964E-EF42-4973-99DB-8EA329577F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cruxlab_TestTask", "Cruxlab_TestTask\Cruxlab_TestTask.csproj", "{9BF56236-F27A-4F65-B22D-5831DB326CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordTest", "PasswordTest\PasswordTest.csproj", "{EB9C5B0E-12B5-4F36-B35A-DF0484BCBE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D2964E-EF42-4973-99DB-8EA329577F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D2964E-EF42-4973-99DB-8EA329577F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D2964E-EF42-4973-99DB-8EA329577F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D2964E-EF42-4973-99DB-8EA329577F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF56236-F27A-4F65-B22D-5831DB326CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF56236-F27A-4F65-B22D-5831DB326CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF56236-F27A-4F65-B22D-5831DB326CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF56236-F27A-4F65-B22D-5831DB326CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9C5B0E-12B5-4F36-B35A-DF0484BCBE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9C5B0E-12B5-4F36-B35A-DF0484BCBE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9C5B0E-12B5-4F36-B35A-DF0484BCBE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9C5B0E-12B5-4F36-B35A-DF0484BCBE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
